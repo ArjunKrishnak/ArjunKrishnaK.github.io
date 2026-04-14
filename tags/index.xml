@@ -4,7 +4,7 @@
     <title>Tags on Arjun Krishna</title>
     <link>https://arjunkrishnak.github.io/tags/</link>
     <description>Recent content in Tags on Arjun Krishna</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2019 12:41:05 -0500</lastBuildDate>
     <atom:link href="https://arjunkrishnak.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
@@ -86,7 +86,7 @@
       <description></description>
     </item>
     <item>
-      <title>Image processing</title>
+      <title>Image Processing</title>
       <link>https://arjunkrishnak.github.io/tags/image-processing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arjunkrishnak.github.io/tags/image-processing/</guid>

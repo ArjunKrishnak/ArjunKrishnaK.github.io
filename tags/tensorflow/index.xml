@@ -4,7 +4,7 @@
     <title>TensorFlow on Arjun Krishna</title>
     <link>https://arjunkrishnak.github.io/tags/tensorflow/</link>
     <description>Recent content in TensorFlow on Arjun Krishna</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2019 12:41:05 -0500</lastBuildDate>
     <atom:link href="https://arjunkrishnak.github.io/tags/tensorflow/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>https://arjunkrishnak.github.io/projects/contributions/cyclical_lr/</link>
       <pubDate>Sat, 12 Oct 2019 12:41:05 -0500</pubDate>
       <guid>https://arjunkrishnak.github.io/projects/contributions/cyclical_lr/</guid>
-      <description>Worked and experimented with CLR algorithm which is implemented in Keras that uses cyclical learning rates to train deep neural networks.</description>
+      <description>&lt;p&gt;Worked and experimented with CLR algorithm which is implemented in  Keras that uses cyclical learning rates to train deep neural networks.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

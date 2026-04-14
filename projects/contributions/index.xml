@@ -4,7 +4,7 @@
     <title>Open Source Contributions on Arjun Krishna</title>
     <link>https://arjunkrishnak.github.io/projects/contributions/</link>
     <description>Recent content in Open Source Contributions on Arjun Krishna</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2019 12:41:05 -0500</lastBuildDate>
     <atom:link href="https://arjunkrishnak.github.io/projects/contributions/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>https://arjunkrishnak.github.io/projects/contributions/cyclical_lr/</link>
       <pubDate>Sat, 12 Oct 2019 12:41:05 -0500</pubDate>
       <guid>https://arjunkrishnak.github.io/projects/contributions/cyclical_lr/</guid>
-      <description>Worked and experimented with CLR algorithm which is implemented in Keras that uses cyclical learning rates to train deep neural networks.</description>
+      <description>&lt;p&gt;Worked and experimented with CLR algorithm which is implemented in  Keras that uses cyclical learning rates to train deep neural networks.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Text detection in natural scenes</title>
       <link>https://arjunkrishnak.github.io/projects/contributions/text_detection_in_natural_scenes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arjunkrishnak.github.io/projects/contributions/text_detection_in_natural_scenes/</guid>
-      <description>Proposed a combination of MSER(Maximally Stable Extremal Regions) detection followed by SWT(Stroke Width Transform) to improve the accuracy of text localization.</description>
+      <description>&lt;p&gt;Proposed a combination of MSER(Maximally Stable Extremal Regions) detection followed by SWT(Stroke Width Transform) to improve the accuracy of text localization.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

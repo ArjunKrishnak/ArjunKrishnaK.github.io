@@ -4,7 +4,7 @@
     <title>Creations on Arjun Krishna</title>
     <link>https://arjunkrishnak.github.io/projects/creations/</link>
     <description>Recent content in Creations on Arjun Krishna</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Oct 2019 12:41:05 -0500</lastBuildDate>
     <atom:link href="https://arjunkrishnak.github.io/projects/creations/index.xml" rel="self" type="application/rss+xml" />
@@ -13,21 +13,21 @@
       <link>https://arjunkrishnak.github.io/projects/creations/express_flowcharts/</link>
       <pubDate>Sat, 12 Oct 2019 12:41:05 -0500</pubDate>
       <guid>https://arjunkrishnak.github.io/projects/creations/express_flowcharts/</guid>
-      <description>This app focuses on quickly creating colorful flowcharts , UMLs, and mindmaps. All of the app elements are gesture-based and intuitive making it very easy to use. This app also features an endless canvas that the user can pan and zoom.</description>
+      <description>&lt;p&gt;This app focuses on quickly creating colorful flowcharts , UMLs, and mindmaps. All of the app elements are gesture-based and intuitive making it very easy to use. This app also features an endless canvas that the user can pan and zoom.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Express Wiki</title>
       <link>https://arjunkrishnak.github.io/projects/creations/express_wiki/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arjunkrishnak.github.io/projects/creations/express_wiki/</guid>
-      <description>expresswiki.ml is a website that i have created which harness the power of AI to provide intelligent reading exprience to the reader. It is build using the MERN stack and is deployed on an AWS instance</description>
+      <description>&lt;p&gt;expresswiki.ml is a website that i have created which harness the power of AI to provide intelligent reading exprience to the reader. It is build using the MERN stack and is deployed on an AWS instance&lt;/p&gt;</description>
     </item>
     <item>
       <title>Google chrome extension to caption images using RCNN</title>
       <link>https://arjunkrishnak.github.io/projects/creations/chrome_extension_using_rcnn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://arjunkrishnak.github.io/projects/creations/chrome_extension_using_rcnn/</guid>
-      <description>The​ ​application​ ​is​ ​basically​ ​a​ ​functional​ ​Google​ ​Chrome​ ​Extension​ ​that generates​ ​a​ ​caption​ ​for​ ​an​ ​image​ ​which​ ​describes​ ​what​ ​is​ ​contained​ ​in​ ​the image.​ ​The​ ​image​ ​captioning​ ​is​ ​done​ ​by​ ​a​ ​deep​ ​learning​ ​network​ ​which​ ​runs​ ​on a​ ​cloud​ ​server (Heroku).​ ​The​ ​caption​ ​generated​ ​is​ ​converted​ ​into​ ​speech​ ​by JavaScript’s​ ​Web​ ​Speech​ ​AP (SpeechSynthesisUtterance​ ​API).</description>
+      <description>&lt;p&gt;The​ ​application​ ​is​ ​basically​ ​a​ ​functional​ ​Google​ ​Chrome​ ​Extension​ ​that generates​ ​a​ ​caption​ ​for​ ​an​ ​image​ ​which​ ​describes​ ​what​ ​is​ ​contained​ ​in​ ​the image.​ ​The​ ​image​ ​captioning​ ​is​ ​done​ ​by​ ​a​ ​deep​ ​learning​ ​network​ ​which​ ​runs​ ​on a​ ​cloud​ ​server (Heroku).​ ​The​ ​caption​ ​generated​ ​is​ ​converted​ ​into​ ​speech​ ​by JavaScript’s​ ​Web​ ​Speech​ ​AP (SpeechSynthesisUtterance​ ​API).&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
